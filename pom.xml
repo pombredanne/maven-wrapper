@@ -3,11 +3,11 @@
   <parent>
     <groupId>io.takari</groupId>
     <artifactId>takari</artifactId>
-    <version>19-SNAPSHOT</version>
+    <version>19</version>
   </parent>
   
   <artifactId>maven-wrapper</artifactId>
-  <version>0.1.5-SNAPSHOT</version>
+  <version>0.1.7-SNAPSHOT</version>
   <packaging>provisio</packaging>
   <name>Maven Wrapper</name>
   <licenses>
